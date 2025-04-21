@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Save this code as app.py and run with `streamlit run app.py`
-
+import streamlit
 
 # Page config
 st.set_page_config(page_title="ChatGPT Black", layout="centered")
